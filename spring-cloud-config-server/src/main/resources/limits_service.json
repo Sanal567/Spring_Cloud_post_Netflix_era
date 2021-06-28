@@ -1,0 +1,1 @@
+{"name":"limits-service","profiles":["default"],"label":null,"version":"4b224b262692bc5efd7893776c90416c9d550648","state":null,"propertySources":[{"name":"file:///Users/sanal567/2021_May/Spring_Cloud_post_Netflix_era/git_local_config_repo/limits-service.properties","source":{"limits-service.minimum":"4","limits-service.maximum":"996"}}]}
